@@ -1,0 +1,9 @@
+diff a/소스.c b/소스.c	(rejected hunks)
+@@ -1,5 +1,5 @@
+ #include<stdio.h>
+-
++//for collision1
+ int main() {
+ 	printf("hello world\n");
+ }
+\ No newline at end of file
